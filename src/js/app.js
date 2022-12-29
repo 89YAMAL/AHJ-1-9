@@ -1,6 +1,6 @@
-import Logic from './Logic.js';
+import Logic from './Logic';
 
-import Gui from './Gui.js';
+import Gui from './Gui';
 
 const gui = new Gui();
 const logic = new Logic(gui);
